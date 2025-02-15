@@ -4,8 +4,8 @@
 <div style="text-align: center;">
   <img src="product_1.jpg" width="80%" />
 </div>
-<strong>[Product Picture]</strong>: https://iii.ad/2258eb<br>
-<strong>[Team]</strong>: Blackout_Retech🏴‍☠️<br>
-<strong>[Maker]</strong>: 김강현, 조윤혁, 장한수, 송승현<br>
-<strong>[Production Period]</strong>: 2023.7 ~ 2023.8.13<br>
-<strong>[Engineering Files]</strong>: None
+<strong>📷Product Picture</strong>: https://iii.ad/2258eb<br>
+<strong>⚡Team</strong>: Blackout_Retech🏴‍☠️<br>
+<strong>🛠️Maker</strong>: 김강현, 조윤혁, 장한수, 송승현<br>
+<strong>📅Production Period</strong>: 2023.7 ~ 2023.8.13<br>
+<strong>📂Engineering Files</strong>: None
